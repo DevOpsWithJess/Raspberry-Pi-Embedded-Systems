@@ -1,4 +1,4 @@
-# CS 350 Milestone Two: GPIO UART Lab
+# GPIO UART
 
 ## Project Summary and Problem Being Solved
 This project focused on controlling an LED on a Raspberry Pi using UART communication. The problem being solved was how to send commands from a client application to a server application that controls physical hardware. The system demonstrates how embedded devices can receive commands over a serial connection and respond reliably.
