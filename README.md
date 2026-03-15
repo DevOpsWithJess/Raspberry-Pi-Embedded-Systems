@@ -6,6 +6,22 @@ Language: Python
 
 ---
 
+## Hardware Setup
+
+![Smart Thermostat Hardware](Thermostat_Picture.png)
+
+This project implements a smart thermostat prototype using a Raspberry Pi and external hardware components.  
+The system reads temperature input and controls system behavior through a state-machine based control model.
+
+The hardware setup includes:
+
+• Raspberry Pi  
+• LCD display for system status  
+• Temperature sensor  
+• Push buttons for user input  
+• LEDs for system state indication  
+• Breadboard and GPIO wiring
+
 ## Overview
 
 This repository contains embedded systems projects developed using a Raspberry Pi to explore hardware–software interaction, serial communication, and state-machine based system design.
