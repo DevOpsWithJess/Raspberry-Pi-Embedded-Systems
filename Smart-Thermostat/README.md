@@ -1,4 +1,4 @@
-# Smart Thermostat Final Project: CS:350
+# Smart Thermostat Project
 
 ## Project Summary and Problem Being Solved
 
